@@ -24,7 +24,7 @@ Key variables include:
 
 ## ⚙️ Tools & Libraries
 - **Python 3.11**
-- **pandas**, **numpy**
+- **pandas**, **numpy**, **sscikit-learn**
 - **matplotlib**, **seaborn**
 - **Jupyter Notebook**
 
