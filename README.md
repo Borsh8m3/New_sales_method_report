@@ -1,7 +1,8 @@
 # 🧾 Product Sales Analysis
 
 Exploratory data analysis of the “Product Sales” dataset, created as part of the **DataCamp Data Analyst Certification Project** to identify key sales drivers and customer behavior patterns.
-👉 [Chceck out report] https://borsh8m3.github.io/Borsh8m3/Analysis_Report.html
+
+👉 [Chceck out report] https://bit.ly/sales_method_report
 
 ## 📊 Overview
 The goal of this project was to understand which sales methods generate the highest revenue and to explore customer behavior across different product categories.  
